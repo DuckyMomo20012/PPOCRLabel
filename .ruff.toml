@@ -1,0 +1,7 @@
+# Ruff configuration file
+# This is a standalone config that can override pyproject.toml settings
+
+# Extend the base config from pyproject.toml
+extend = "pyproject.toml"
+
+# Additional project-specific rules can go here
