@@ -12,7 +12,10 @@ dependencies = [
   "tqdm",
   "premailer",
   "pandas",
-  "requests"
+  "requests",
+  "paddlepaddle==3.2.2",
+  "opencv-python-headless>=4.12.0.88",
+  "paddlex[ocr]>=3.3.12",
 ]
 requires-python = ">= 3.9"
 authors = [
